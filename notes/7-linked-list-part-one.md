@@ -34,7 +34,7 @@
 
 插入删除结点，都是改变相邻结点的指针，因此时间复杂度为 O(1)。与数组相比，链表插入或删除结点都不需要进行数据的迁移。
 
-![insert-and-delete-in-single-linked-list](../images/insert-and-delete-in-single-linked-list)
+![insert-and-delete-in-single-linked-list](../images/insert-and-delete-in-single-linked-list.jpg)
 
 ## 单链表
 
