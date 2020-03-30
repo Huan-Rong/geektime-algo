@@ -93,6 +93,8 @@ public class LruBasedLinkedList<T> {
 
   /**
    * 移除尾结点
+   *
+   * <p>重点在于如何找到尾结点的前驱结点</p>
    */
   private void removeLastNode() {
     DataNode dataNode = header;
